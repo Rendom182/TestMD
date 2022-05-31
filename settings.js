@@ -19,7 +19,7 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "Xdit-MD" //namabot kalian
-global.ownername= "© Raditya¡X" //nama kalian
+global.ownername= "Raditya¡X" //nama kalian
 global.myweb ="https://wa.me/6285641476033" //bebas asal jan hapus
 global.youtube = "https://wa.me/6285641476033" //bebas asal jan hapus
 global.github = "https://github.com/Xdit133" //bebas
