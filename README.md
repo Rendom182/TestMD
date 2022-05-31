@@ -72,7 +72,7 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "Xdit-MD"
-global.ownername= "© Raditya¡X"
+global.ownername= "Raditya¡X"
 global.myweb ="https://wa.me/6285641476033"
 global.youtube = "https://wa.me/6285641476033"
 global.github = "https://github.com/Xdit133"
