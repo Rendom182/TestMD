@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/Xdit MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -84,7 +84,7 @@ global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6285641476033","6285641476033","6285641476033"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'Stikerby Xdit' //sticker wm
+global.packname = 'Stikerby ¡X' //sticker wm
 global.author = 'IG @hai_om.qw' //sticker wm
 global.sessionName = 'session'
 ```
