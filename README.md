@@ -34,12 +34,12 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
+> Xdit-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Xdit-Md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
+* Info Lebih Lanjut, Chat [owner-Xdit-MD](https://wa.me/6285641476033)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -71,21 +71,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeone-ofc.github.io/"
-global.email = "zeeoneofc@gmail.com"
-global.region = "Indonesia"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
+global.botname = "Xdit-MD"
+global.ownername= "© Raditya¡X"
+global.myweb ="https://wa.me/6285641476033"
+global.youtube = "https://wa.me/6285641476033"
+global.github = "https://github.com/Xdit133"
+global.email = "rya76438@gmail.com"
+global.region = "Myanmar"
+global.ownernomer = "6285641476033"
+global.ownernomerr = "+6285641476033"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.owner = ["6285641476033","6285641476033","6285641476033"] //ganti agar fitur owner bisa di gunakan
+global.packname = 'Stikerby Xdit' //sticker wm
+global.author = 'IG @hai_om.qw' //sticker wm
 global.sessionName = 'session'
 ```
 
